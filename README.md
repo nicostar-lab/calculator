@@ -22,13 +22,13 @@ Une calculatrice web élégante, minimaliste et responsive. Ce projet est conçu
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/nicostar-lab/country-search.git
+   git clone https://github.com/nicostar-lab/calculator.git
 
-🤝 Contribution
+## 🤝 Contribution
 Les contributions sont les bienvenues !
 N'hésitez pas à forker le projet, proposer des améliorations ou signaler des bugs.
 
-📄 Licence
+## 📄 Licence
 Ce projet est open-source et disponible sous la licence MIT.
 
 Auteur : [nicostar-lab](https://github.com/nicostar-lab)
